@@ -163,5 +163,5 @@ flowchart LR
 - `samples/04_decision_response_never.json`
 - `samples/05_audit_event_response.json`
 
-## AI Usage Disclosure (for submission email/video)
+## AI Usage Disclosure 
 I used AI assistance for structuring architecture options, endpoint naming, and failure-mode checklists. I manually refined the scoring flow, fallback behavior, data model fields, and audit/reason-code design for practical implementation.
