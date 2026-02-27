@@ -1,0 +1,17 @@
+{
+  "event_id": "evt_1d2a8be3",
+  "decision": "Later",
+  "score": 0.55,
+  "scheduled_for": "2026-02-26T21:00:00Z",
+  "reason_codes": [
+    "MEDIUM_PRIORITY_EVENT",
+    "USER_IN_QUIET_HOURS",
+    "NOT_TIME_CRITICAL",
+    "FATIGUE_CAP_NEAR_LIMIT"
+  ],
+  "explanation": "Reminder is useful but not urgent; user is in quiet hours and near cap, so event is deferred to next allowed window.",
+  "rule_version": "rules_v12",
+  "model_version": "priority_model_v3",
+  "fallback_used": false,
+  "decided_at": "2026-02-26T16:35:40Z"
+}

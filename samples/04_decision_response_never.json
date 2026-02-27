@@ -1,0 +1,16 @@
+{
+  "event_id": "evt_77a09c21",
+  "decision": "Never",
+  "score": 0.14,
+  "scheduled_for": null,
+  "reason_codes": [
+    "EXACT_DUPLICATE_DETECTED",
+    "PROMOTIONAL_CATEGORY",
+    "LOW_PRIORITY_UNDER_NOISY_PERIOD"
+  ],
+  "explanation": "Promotional notification matches an existing dedupe key within TTL and is low-value during current noisy window; suppressed.",
+  "rule_version": "rules_v12",
+  "model_version": "priority_model_v3",
+  "fallback_used": false,
+  "decided_at": "2026-02-26T16:40:22Z"
+}

@@ -1,0 +1,17 @@
+{
+  "user_id": "u_90210",
+  "event_type": "payment_failed",
+  "message": "Your card payment failed. Update your card to avoid service interruption.",
+  "source": "billing-service",
+  "priority_hint": "high",
+  "timestamp": "2026-02-26T16:20:12Z",
+  "channel": "push",
+  "metadata": {
+    "account_id": "acc_129",
+    "invoice_id": "inv_77211",
+    "amount_due": 49.99,
+    "currency": "USD"
+  },
+  "dedupe_key": "billing:inv_77211:payment_failed",
+  "expires_at": "2026-02-27T16:20:12Z"
+}
